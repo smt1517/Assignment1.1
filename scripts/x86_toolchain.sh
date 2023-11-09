@@ -1,6 +1,6 @@
 #!/bin/bash
 # Edited by Selim Tahir November 2023
-# Kali vscode crashed, but I already altered the scripts and saved them on notes, so I was able to add it to my desktop 
+# Many issues encountered, but hopefully I am able to troubleshoot. Kali vscode crashed, but I already altered the scripts and saved them on notes, so I was able to add it to my desktop 
 # Due to the crash I only have 1 commit and not many branches
 # Define ANSI color code variables for color-coding the output.
 
